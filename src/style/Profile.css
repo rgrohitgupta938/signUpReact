@@ -1,0 +1,21 @@
+.box1 {
+    margin: 40px 30px;
+}
+
+.box1 h1,
+.box1 h2 {
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 77.45px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.box1 button {
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 29.05px;
+    width: 200px;
+    height: 45px;
+}
